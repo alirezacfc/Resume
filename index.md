@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+من علیرضا منتظران 20 ساله ساکن استان تهران شهر لواسان دانشجوی رشته مهندسی کامپیوتر در دانشگاه پیام نور شعبه لواسان در مقطع کارشناسی هستم.
 
-You can use the [editor on GitHub](https://github.com/alirezacfc/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### سابقه کاری
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+پنج سال کار در شرکت آوای سبز لواسان بصورت پاره وقت بعنوان کارشناس نصب از سال 1394 تا 1399 .
 
-### Markdown
+سه ماه کار بعنوان کارآموز در شرکت ماهان نت 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+شش ماه کار بعنوان فرد مسِئول دیجتال مارکتینگ در شرکت تبلیغاتی سوبا
 
-```markdown
-Syntax highlighted code block
+### علایق
 
-# Header 1
-## Header 2
-### Header 3
+عکاسی
 
-- Bulleted
-- List
+ادیت ویدیو
 
-1. Numbered
-2. List
+ادیت عکس
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alirezacfc/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+برنامه نویسی
